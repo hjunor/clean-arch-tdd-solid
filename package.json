@@ -1,10 +1,11 @@
 {
-  "name": "Treinamento-NodeJS",
+  "name": "treinamentonodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged":"jest"
   },
   "keywords": [],
   "author": "",
